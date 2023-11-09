@@ -1,4 +1,4 @@
-# HSCBoardMarksScraper
+# Website Score Scraper
 
 This implements Selenium browser automation to scrape data from website.
 
